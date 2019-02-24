@@ -27,7 +27,7 @@ In each entry, you will find a project overview such as how the idea came about 
 2. Create a new markdown file (e.g. `my-shiny-project.md`) under the [projects directory](./projects).
 3. Copy the contents of the [template](./projects/TEMPLATE.md) into the file just created.
 4. Edit accordingly. It doesn't have to be complete, just fill out as much information as possible!
-5. When you're done, raise a pull request (PR) against the master branch of this repo.
+5. When you're done, raise a pull request (PR) against the master branch of this repo. You can find example PRs from the [project repo](https://github.com/womendrivendev/google-oct-2018/pulls) of the last hackathon at Google.
 6. The idea is that you will update the file and push more commits to the PR as your project evolves.
 7. After the hackathon, we will merge all the PRs.
 8. As you work on the project, even after the hackathon, feel free to raise more PRs. We'll keep an eye out!

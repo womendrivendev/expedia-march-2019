@@ -20,7 +20,7 @@ WDD advocates for the open source community - each project belongs to their own 
 
 In each entry, you will find a project overview such as how the idea came about or sources of inspiration, as well as the acknowledgement towards the tools/data sources used, and links to find more about the project.
 
-## How to add your project (for #TechItForward Oct 2018 attendees)
+## How to add your project (for #TechItForward March 2019 attendees)
 
 0. You are welcome to create a project repository, anywhere you like. In some cases your project might not even require a repo!
 1. Fork this repository.

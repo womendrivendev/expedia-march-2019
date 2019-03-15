@@ -33,6 +33,15 @@ Feel free to share your project in any other forms of communication, such as blo
 Cite any tools or sources of information you've used within the project.
 
 
+## Infra Setup
+- Database
+-- MySQL DB hosted on Google Cloud
+- VM (use this to run a MySQL Client)
+-- VM hosted on
+- MySQL to VM connection
+-- VM is assigned a static IP address. This IP address is whitelisted for the DB
+- View
+-- Google Data Studio
 
 ## Connecting to the MySQL DB
 
@@ -53,6 +62,7 @@ Cite any tools or sources of information you've used within the project.
 
 
 ## Exporting Data from Spreadsheets and Into DB
+
 - Create the table (using mysql commands) for your data on the MySQL DB
 - The # of columns on your spreadsheet should match the # of columns on your MySQL DB table -- the column names don’t matter, the order DOES
 - On your spreadsheet, select Export or Save As... and choose the options that says ".csv" > This will export your data in a CSV format

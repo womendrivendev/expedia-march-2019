@@ -73,7 +73,11 @@ Cite any tools or sources of information you've used within the project.
 - The column headings sometimes get mistakenly imported as a row! You may need to clean this up by running:
 - e.g.) DELETE FROM ACE_QUESTIONS WHERE MEMBER_ID = 0;
 
+ ## Logging into Data Studio to View Dashboard
 
+ ## Adding new queries to Data Studio
+
+ ## Google Forms Integration
 
 
 ## Contributors
@@ -85,3 +89,8 @@ Last, but not least, names of the proud contributors please!
 | Nina Nduwayo | nn250 | - | https://www.linkedin.com/in/ninanadia/ | - |
 | Emma Matsubara | matsoob | - | https://www.linkedin.com/in/emma-matsubara-094003b6/ | - |
 | Jennifer N | jennlew | @jen_onl | https://www.linkedin.com/in/jennlewedum/ | - | 
+| Yanan Liu | - | - | - | - | 
+| Kara de la Marck | - | - | - | - | 
+| Frankie | - | - | - | - | 
+| Holly Smith | - | - | - | - | 
+| Kara de la Marck | - | - | - | - | 

@@ -5,7 +5,7 @@
 Little Angel Theatre, the only puppetry theatre for children in London.
 
 
-They would like to make their booking system more user friendly and professional as it's very text heavy at the moment, also they are aiming to increase their website's loading speed particualrly the calendar page.
+They would like to make their booking system more user friendly and professional as it's very text heavy at the moment, also they are aiming to increase their website speed and performance particularly the calendar page.
 We conducted seven user interviews which informed our design. 
 
 ## Links

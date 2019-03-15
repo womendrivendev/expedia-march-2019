@@ -54,7 +54,8 @@ Cite any tools or sources of information you've used within the project.
 - In the dropdown, select “view gcloud command” > then within the popup, select “Run in Cloud Shell”. This will open a browser based shell that will start SSHing into the VM
 - When you first log on, you will be prompted for SSH key info. Just hit enter to both questions. Give it a minute. You should now be on a command line for the VM!
 - Connect to the mysql DB using a command line mysql client
-“mysql --host=35.242.134.197   --user=root --password=$root_password”
+“mysql --host=$ip_address   --user=root --password=$root_password”
+- Confirm IP address and password from the Google Cloud Console > SQL > click into stance
 - If successful, this should have now dropped you into a mysql prompt. You can type things like: 
 - use members;
 - SELECT * FROM DEMOGRAPHICS AS DEMOGRAPHICS JOIN PERSONAL_DETAILS AS DETAILS ON DEMOGRAPHICS.MEMBER_ID = DETAILS.MEMBER_ID;
@@ -103,4 +104,3 @@ Last, but not least, names of the proud contributors please!
 | Kara de la Marck | - | - | - | - | 
 | Frankie | - | - | - | - | 
 | Holly Smith | - | - | - | - | 
-| Kara de la Marck | - | - | - | - | 

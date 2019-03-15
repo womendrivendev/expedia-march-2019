@@ -47,7 +47,7 @@ Cite any tools or sources of information you've used within the project.
 - Connect to the mysql DB using a command line mysql client
 “mysql --host=35.242.134.197   --user=root --password=$root_password”
 - If successful, this should have now dropped you into a mysql prompt. You can type things like: 
-use members;
+- use members;
 - SELECT * FROM DEMOGRAPHICS AS DEMOGRAPHICS JOIN PERSONAL_DETAILS AS DETAILS ON DEMOGRAPHICS.MEMBER_ID = DETAILS.MEMBER_ID;
 - If the connection wasn’t successful, you can try again (sometimes the connection times out -- this is just a transient error)	
 
@@ -59,7 +59,21 @@ use members;
 - In your Google Cloud Console, select "Storage" from the leftside hamburger menu
 - There should be a "Bucket" with name "body-and-soul"
 - Select "Upload files" or drag and drop to upload the CSV file you downloaded earlier
-- 
+- Now your data is in the bucket on Cloud! Next you need to import it into the Database that lives on the cloud
+- From the hamburger menu on the leftside in the Cloud console, got to "SQL"
+- click into the "body-and-soul" MySQL DB instance
+- There is a "Import" symbol at the top. Click this.
+- Click on "Browse" next to the Cloud Storage File" to select the previously uploaded CSV file
+- Select the CSV file and hit "Select"
+- It should auto-detect htat it is a CSV file rather than a SQL file > manually select if it didn't
+- Choose the "members" database
+- Specify the name of the table you created in step 1
+- Hit "import"
+- You should be able to see the data reflecting now! See "Connecting to the MySQL DB" for instructions on connecting to DB and running a "SELECT" in order to see the rows you imported
+- The column headings sometimes get mistakenly imported as a row! You may need to clean this up by running:
+- e.g.) DELETE FROM ACE_QUESTIONS WHERE MEMBER_ID = 0;
+
+
 
 
 ## Contributors
@@ -69,5 +83,5 @@ Last, but not least, names of the proud contributors please!
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
 | Nina Nduwayo | nn250 | - | https://www.linkedin.com/in/ninanadia/ | - |
-| Emma Matsubara | matsoob | - | - | - |
-| Jennifer N | jennlew | @jen_onl | jennlewedum | - | 
+| Emma Matsubara | matsoob | - | https://www.linkedin.com/in/emma-matsubara-094003b6/ | - |
+| Jennifer N | jennlew | @jen_onl | https://www.linkedin.com/in/jennlewedum/ | - | 

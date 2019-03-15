@@ -1,20 +1,13 @@
-# Project title
+# BODY AND SOUL
 
 ## About
 
-Tell us about your project!
-
 Here are some questions to help you get going...
 
-- What/who is it for?
+- This project is for BODY AND SOUL caseworkers
 
-- What problem is it trying to solve?
+- They are having issues with organizing and accessing their user data
 
-- What was the motivation befind?
-
-- What inspired you?
-
-- How did you come up with the idea?
 
 ## Links
 

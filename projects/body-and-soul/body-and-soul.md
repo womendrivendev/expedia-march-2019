@@ -52,6 +52,16 @@ use members;
 - If the connection wasn’t successful, you can try again (sometimes the connection times out -- this is just a transient error)	
 
 
+## Exporting Data from Spreadsheets and Into DB
+- Create the table (using mysql commands) for your data on the MySQL DB
+- The # of columns on your spreadsheet should match the # of columns on your MySQL DB table -- the column names don’t matter, the order DOES
+- On your spreadsheet, select Export or Save As... and choose the options that says ".csv" > This will export your data in a CSV format
+- In your Google Cloud Console, select "Storage" from the leftside hamburger menu
+- There should be a "Bucket" with name "body-and-soul"
+- Select "Upload files" or drag and drop to upload the CSV file you downloaded earlier
+- 
+
+
 ## Contributors
 
 Last, but not least, names of the proud contributors please!

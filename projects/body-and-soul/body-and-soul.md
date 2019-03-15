@@ -68,4 +68,6 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Member 1 | member1 | @member1 | - | - |
+| Nina Nduwayo | nn250 | - | https://www.linkedin.com/in/ninanadia/ | - |
+| Emma Matsubara | matsoob | - | - | - |
+| Jennifer N | jennlew | @jen_onl | jennlewedum | - | 

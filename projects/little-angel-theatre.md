@@ -15,9 +15,15 @@ The link to the website is: https://littleangeltheatre.com/
 ## Acknowledgement
 
 We are doing a lot of styling work directly on the Spektrix and WordPress platforms.
-We have also built an interactive dashboard using Google Data Studio tailored to Little Angel Theatres needs, so that they can monitor site performance over time, and see if there has been an uplift in sales following the website updates. 
 
-The calendar page mockup design
+An example of a styling work:
+!(styling-example1.png)
+
+We have also built an interactive dashboard using Google Data Studio tailored to Little Angel Theatres needs, so that they can monitor site performance over time, and see if there has been an uplift in sales following the website updates. The dashoboard shown as below:
+
+!(Analytics.jpg)
+
+The calendar page mockup design shown as below:
 
 ![The calendar page mockup](calendar-page.png)
 

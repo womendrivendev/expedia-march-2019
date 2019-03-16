@@ -4,7 +4,6 @@
 
 Little Angel Theatre, the only puppetry theatre for children in London.
 
-
 They would like to make their booking system more user friendly and professional as it's very text heavy at the moment, also they are aiming to increase their website speed and performance particularly the calendar page.
 We conducted seven user interviews which informed our design. 
 
@@ -14,16 +13,15 @@ The link to the website is: https://littleangeltheatre.com/
 
 ## Acknowledgement
 
-We are doing a lot of styling work directly on the Spektrix and WordPress platforms.
+We did a lot of styling work directly on the Spektrix and WordPress platforms. An example of a styling work done on the donation page through Spextrix platform:
 
-An example of a styling work:
-(styling-example1.png)
+![A styling example](styling-example1.png)
 
 We have also built an interactive dashboard using Google Data Studio tailored to Little Angel Theatres needs, so that they can monitor site performance over time, and see if there has been an uplift in sales following the website updates. The dashoboard shown as below:
 
-(Analytics.jpg)
+![The analytics dashboard](Analytics.jpg)
 
-The calendar page mockup design shown as below:
+And the calendar page mockup design shown as below:
 
 ![The calendar page mockup](calendar-page.png)
 

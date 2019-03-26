@@ -1,5 +1,3 @@
-
-
 # Code Your Future: Student tracking system
 
 ## About
@@ -50,5 +48,5 @@ Slack Tracking repository: < to be added soon >
 | Yuna Lee | [GitHub](https://github.com/queenyuna) | @2young2love1 | [LinkedIn](http://linkedin.com/in/yunalee127) | [website]([http://www.yunaview.com/](http://www.yunaview.com/)) |
 | Naveena Dhougoda | - | - | [LinkedIn](https://www.linkedin.com/in/naveenad) | - |
 | Michèle Pettinato | [GitHub](https://github.com/ym-pett) | - | [LinkedIn](https://www.linkedin.com/in/michèle-pettinato/) | - |
-| Buket Konuk-Hirst | - | - | - | - |
-| Ananya Mohanty | - | - | - | - |
+| Buket Konuk-Hirst | [GitHub](https://github.com/buketkonuk) | @KonukBuket | [LinkedIn](https://www.linkedin.com/in/buketkonuk/) | - |
+| Ananya Mohanty | - | - |[LinkedIn](https://www.linkedin.com/in/ananya-mohanty-2327b240/) | - |

@@ -20,14 +20,12 @@ A habit-creation process is required throughout the course until students feel c
 * Is the homework load too much or too little?
 
 ## Links
-
 Website: [Code your future](https://codeyourfuture.io/)
-Slack Tracking repository: < to be added soon >
+Slack Tracking repository: [Repository](https://github.com/vidhi171983/codeyourfuture)
 
 ## Acknowledgement
 
 #### Techonology:
-
 * [SpringBoot](https://spring.io/), Java. backend technology
 * [MongoDB](https://www.mongodb.com/) database set up in the cloud
 * [AWS](https://aws.amazon.com/)
